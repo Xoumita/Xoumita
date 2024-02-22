@@ -30,9 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
 </div>
 
-###
-
-<img align="right" height="180" src="https://i.pinimg.com/564x/57/86/aa/5786aa7b4368fa7065245355b362956c.jpg"  />
 
 ###
 
